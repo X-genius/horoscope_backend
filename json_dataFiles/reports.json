@@ -1,0 +1,73 @@
+{
+   "httpStatus":"OK",
+   "httpStatusCode":200,
+   "success":true,
+   "message":"Services fetched successfully.",
+   "apiName":"Get all services.",
+   "data":[
+      {
+      "services1":[
+         {
+            "name":"Horoscope1",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedies on everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+            ],
+            "indepthPoints":[
+            ],
+            "price":"251",
+            "offerPrice":"51"
+         }
+      ]
+   },
+   {
+      "services2":[
+         {
+            "name":"Horoscope2",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedies on everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+            ],
+            "indepthPoints":[
+            ],
+            "price":"251",
+            "offerPrice":"51"
+         }
+      ]
+   },
+   {
+      "services3":[
+         {
+            "name":"Horoscope3",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedies on everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+            ],
+            "indepthPoints":[
+            ],
+            "price":"251",
+            "offerPrice":"51"
+         }
+      ]
+   },
+   {
+      "services4":[
+         {
+            "name":"Horoscope4",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedies on everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+            ],
+            "indepthPoints":[
+            ],
+            "price":"251",
+            "offerPrice":"51"
+         }
+      ]
+   }
+]
+}

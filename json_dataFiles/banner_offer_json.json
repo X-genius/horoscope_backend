@@ -1,0 +1,26 @@
+{
+   "httpStatus":"OK",
+   "httpStatusCode":200,
+   "success":true,
+   "message":"Banners fetched successfully",
+   "apiName":"Fetch Banner",
+   "data":[
+      {
+         "id":5,
+         "name":"someBanner",
+         "landingUrl":"www.astrotak.com/report",
+         "orderType":"REPORT_GENERATION",
+         "metaData":{
+            "productCode":"CP",
+            "productName":"Yearly Horoscope 2020",
+            "professionalSlug":"career-business-horoscope-report"
+         },
+         "images":{
+            "medium":{
+               "imageUrl":"https://tak-astrotak-av-dev.s3.ap-south-1.amazonaws.com/astro-images/banners/1.png",
+               "id":141
+            }
+         }
+      }
+   ]
+}
